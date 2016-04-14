@@ -1,6 +1,6 @@
-# Polaris
+# Pocahontsass
 
-A Sass starter kit.
+Dat Sass starter kit.
 
 ## Setup
 
